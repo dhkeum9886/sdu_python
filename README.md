@@ -1,3 +1,3 @@
 # sdu_python
 
-dhkeum9886
+파이썬프로그래밍
