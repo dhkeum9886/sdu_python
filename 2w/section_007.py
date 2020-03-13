@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-#sexction_007.py
+#secction_007.py
 
 number = 1
 print(number)
